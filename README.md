@@ -3,7 +3,7 @@
 # Welcome, traveler 👋
 
 
-**I'm Studying Computer Science and Engineering at Instituto Superior Técnico**
+**I'm Studying Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt)**
 
 <br>
 

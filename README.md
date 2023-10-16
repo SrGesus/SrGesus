@@ -5,6 +5,10 @@
 
 **I'm Studying Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt)**
 
+I love learning and solving problems
+
+Rust enjoyer 🦀
+
 <br>
 
 # Languages and Tools:

@@ -13,7 +13,7 @@ Rust enjoyer 🦀
 
 # Languages and Tools:
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srgesus&show_icons=true&locale=en&layout=compact&theme=dark" alt="srgesus" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srgesus&show_icons=true&locale=en&layout=compact&theme=dark&hide=shell" alt="srgesus" /></p>
 
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
